@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\arolc\\source\\repos\\prova1206\\prova1206\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2EF837B-96B3-4A4E-9C16-9C1C08FFCF82}|prova1206\\prova1206.csproj|C:\\Users\\arolc\\source\\repos\\prova1206\\prova1206\\prova1206\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D2EF837B-96B3-4A4E-9C16-9C1C08FFCF82}|prova1206\\prova1206.csproj|solutionrelative:prova1206\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D2EF837B-96B3-4A4E-9C16-9C1C08FFCF82}|prova1206\\prova1206.csproj|C:\\Users\\arolc\\source\\repos\\prova1206\\prova1206\\prova1206\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EF837B-96B3-4A4E-9C16-9C1C08FFCF82}|prova1206\\prova1206.csproj|solutionrelative:prova1206\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2EF837B-96B3-4A4E-9C16-9C1C08FFCF82}|prova1206\\prova1206.csproj|c:\\users\\arolc\\source\\repos\\prova1206\\prova1206\\prova1206\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2EF837B-96B3-4A4E-9C16-9C1C08FFCF82}|prova1206\\prova1206.csproj|solutionrelative:prova1206\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2EF837B-96B3-4A4E-9C16-9C1C08FFCF82}|prova1206\\prova1206.csproj|c:\\users\\arolc\\source\\repos\\prova1206\\prova1206\\prova1206\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2EF837B-96B3-4A4E-9C16-9C1C08FFCF82}|prova1206\\prova1206.csproj|solutionrelative:prova1206\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EF837B-96B3-4A4E-9C16-9C1C08FFCF82}|prova1206\\prova1206.csproj|c:\\users\\arolc\\source\\repos\\prova1206\\prova1206\\prova1206\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2EF837B-96B3-4A4E-9C16-9C1C08FFCF82}|prova1206\\prova1206.csproj|solutionrelative:prova1206\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,19 +27,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Principal.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\arolc\\source\\repos\\prova1206\\prova1206\\prova1206\\Principal.cs",
+              "RelativeDocumentMoniker": "prova1206\\Principal.cs",
+              "ToolTip": "C:\\Users\\arolc\\source\\repos\\prova1206\\prova1206\\prova1206\\Principal.cs [Projeto]",
+              "RelativeToolTip": "prova1206\\Principal.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:10:42.314Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\arolc\\source\\repos\\prova1206\\prova1206\\prova1206\\Form1.cs",
               "RelativeDocumentMoniker": "prova1206\\Form1.cs",
               "ToolTip": "C:\\Users\\arolc\\source\\repos\\prova1206\\prova1206\\prova1206\\Form1.cs",
               "RelativeToolTip": "prova1206\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABTAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T01:52:33.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\arolc\\source\\repos\\prova1206\\prova1206\\prova1206\\Form1.cs",
               "RelativeDocumentMoniker": "prova1206\\Form1.cs",

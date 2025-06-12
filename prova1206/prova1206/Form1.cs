@@ -16,12 +16,32 @@ namespace prova1206
             string admin = "ADMIN";
             string senha = "123";
 
-            if(txtUsuario.Text == admin && txtSenha.Text == senha) 
+            if (txtUsuario.Text == admin && txtSenha.Text == senha)
             {
                 MessageBox.Show($"Boas Vindas,{admin}!");
                 Principal princ = new Principal();
                 this.Hide();
-                princ();
+                princ.Show();
+            }
+            else
+            {
+                string[] linhas = File.ReadAllLines( caminhoCsv );
+                foreach(string linha in linhas) 
+                {
+                    string[] dados = linha.Split(';');
+
+                    string usuario = dados[0].Trim();
+                    string senhaUsuario = dados[0].Trim();
+                    if(txtUsuario.Text == usuario && txtSenha.Text ==senhaUsuario)
+                    {
+                        MessageBox.Show($"Boas Vindas{usuario}!");
+                        Principal princ = new Principal();
+                        this.Hide();
+                        princ.Show();
+                    }
+
+                }
+                    
             }
         }
     }
